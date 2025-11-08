@@ -1,16 +1,26 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&lines=Welcome+to+my+profile!;I+love+building+cool+web+stuff)](https://git.io/typing-svg)
 
-<!--
-**banzali-gracegabrielle/banzali-gracegabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" 
+    style="display: flex; 
+            align-items: left; 
+            justify-content: left; 
+            gap: 10px;">
+    <h2>👋 Hi, I'm Gabrielle!</h2>
+    <img src="dino2.gif" width="80"/>
+</div>
 
-Here are some ideas to get you started:
+<!-- # Hi, I'm Gabrielle! <img src="dino2.gif" width="80"/> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Front-end Developer | 💡 Creative Coder
+
+### 🧰 Languages & Tools
+<img src="https://skillicons.dev/icons?i=html,css,python,java,figma" />
+
+---
+
+### 📈 My Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=banzali-gracegabrielle&show_icons=true&theme=radical)
+
+---
+
+<img align='right' src="cube.gif" width="230">
