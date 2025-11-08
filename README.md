@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&lines=Welcome+to+my+profile!;I+love+building+cool+web+stuff)](https://git.io/typing-svg)
 
-## 👋 Hi, I'm Grace Gabrielle Banzali <img src="dino2.gif" width="80"/>
+<img align='right' src="room.gif" width="2008">
 
-### 🚀 Back-end Developer | 💡 Creative Coder
+
+## Hi, I'm Grace Gabrielle Banzali <img src="dino2.gif" width="80"/>
+
+### Tech Student | 
 <img align='right' src="cube.gif" width="230">
 
 I’m **Grace Gabrielle Banzali**, an aspiring **Back-End Developer** currently pursuing a **Bachelor’s degree in Information Technology** at **Polytechnic University of the Philippines – Taguig Campus**.  
