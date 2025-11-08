@@ -1,15 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&lines=Welcome+to+my+profile!;I+love+building+cool+web+stuff)](https://git.io/typing-svg)
 
-<div align="center" 
-    style="display: flex; 
-            align-items: left; 
-            justify-content: left; 
-            gap: 10px;">
-    <h2>👋 Hi, I'm Gabrielle!</h2>
-    <img src="dino2.gif" width="80"/>
-</div>
-
-<!-- # Hi, I'm Gabrielle! <img src="dino2.gif" width="80"/> -->
+## 👋 Hi, I'm Gabrielle! <img src="dino2.gif" width="80"/>
 
 ### 🚀 Front-end Developer | 💡 Creative Coder
 
